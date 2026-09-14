@@ -224,15 +224,12 @@ Digital Products
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Akankshya908&bg_color=0B0F0F&color=F59E0B&line=0EA5A4&point=FFFFFF&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"
-  width="100%"
-  alt="GitHub Contribution Activity Graph"
+  src="https://ghchart.rshah.org/F59E0B/Akankshya908"
+  width="95%"
+  alt="Akankshya's GitHub Contribution Activity"
 />
 
 </div>
-
-<br>
-
 ---
 
 # `07 / COMMIT GRAPH`
