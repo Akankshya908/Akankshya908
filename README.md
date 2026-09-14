@@ -368,3 +368,16 @@ Digital Products
                     ┌─────────────────┐
                     │     PRODUCT     │
                     └─────────────────┘
+````
+</div> <br>
+
+13 / CONNECT
+<div align="center"> <a href="mailto:akankshyapatra908@gmail.com"> <img src="https://img.shields.io/badge/EMAIL-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> <a href="https://linkedin.com/in/akankshya-patra-2193b4288"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://www.kaggle.com/akankshya908"> <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"> </a> <a href="https://github.com/Akankshya908"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </div> <br> <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=16&duration=3000&pause=1000&color=0EA5A4&center=true&vCenter=true&width=700&lines=Building+%7C+Learning+%7C+Experimenting;AI+meets+Software+Engineering;One+commit+at+a+time." alt="Footer animation" />
+
+</div> <br> <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F59E0B,30:5A3510,70:172B2B,100:0B0F0F&animation=fadeIn" width="100%" />
+
+</div> 
