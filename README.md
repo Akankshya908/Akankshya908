@@ -392,7 +392,7 @@ Worked on applied AI/software engineering initiatives involving data, applicatio
 <div align="center">
 
 <img
-  src="https://ghchart.rshah.org/F59E0B/Akankshya908"
+  src="https://ghchart.rshah.org/Akankshya908"
   width="95%"
   alt="Akankshya's GitHub Contribution Activity"
 />
