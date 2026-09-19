@@ -1,14 +1,14 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B0F0F,35:172B2B,70:5A3510,100:F59E0B&text=AKANKSHYA%20PATRA&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0B1020,35:312E81,70:5B21B6,100:8B5CF6&text=AKANKSHYA%20PATRA&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20ENGINEER%20%7C%20FULL%20STACK%20DEVELOPER&descAlignY=60&descSize=18&animation=fadeIn"
   width="100%"
 />
 
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=21&duration=2200&pause=700&color=F59E0B&center=true&vCenter=true&width=900&height=55&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Engineer;Software+Engineer;AI+%2B+Software+%2B+Product+Development"
+  src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=21&duration=2200&pause=700&color=8B5CF6&center=true&vCenter=true&width=900&height=55&lines=AI+Engineer;Full+Stack+Developer;Machine+Learning+Engineer;Software+Engineer;AI+%2B+Software+%2B+Product+Development"
   alt="AI Engineer, Full Stack Developer, Machine Learning Engineer"
 />
 
@@ -33,19 +33,15 @@
 <br><br>
 
 <img
-  src="https://komarev.com/ghpvc/?username=Akankshya908&label=PROFILE%20VIEWS&color=F59E0B&style=for-the-badge"
+  src="https://komarev.com/ghpvc/?username=Akankshya908&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"
   alt="Profile views"
 />
 
 <img
-  src="https://img.shields.io/github/followers/Akankshya908?style=for-the-badge&label=FOLLOWERS&color=0EA5A4"
+  src="https://img.shields.io/github/followers/Akankshya908?style=for-the-badge&label=FOLLOWERS&color=6366F1"
   alt="GitHub followers"
 />
 
-<img
-  src="https://img.shields.io/github/stars/Akankshya908?style=for-the-badge&label=STARS&color=F59E0B"
-  alt="GitHub stars"
-/>
 
 </div>
 
@@ -342,13 +338,13 @@ Worked on applied AI/software engineering initiatives involving data, applicatio
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Akankshya908&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0B0F0F&title_color=F59E0B&text_color=FFFFFF&icon_color=0EA5A4"
+  src="https://github-readme-stats.vercel.app/api?username=Akankshya908&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=F5F3FF&icon_color=6366F1"
   width="49%"
   alt="GitHub Statistics"
 />
 
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshya908&layout=compact&langs_count=8&hide_border=true&bg_color=0B0F0F&title_color=F59E0B&text_color=FFFFFF"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akankshya908&layout=compact&langs_count=8&hide_border=true&bg_color=0B1020&title_color=8B5CF6&text_color=F5F3FF"
   width="49%"
   alt="Top Languages"
 />
@@ -360,7 +356,7 @@ Worked on applied AI/software engineering initiatives involving data, applicatio
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Akankshya908&hide_border=true&background=0B0F0F&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=FFFFFF&dates=8A8A8A&currStreakNum=FFFFFF&sideNums=FFFFFF"
+  src="https://streak-stats.demolab.com?user=Akankshya908&hide_border=true&background=0B1020&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=F5F3FF&dates=A1A1AA&currStreakNum=F5F3FF&sideNums=F5F3FF"
   width="80%"
   alt="GitHub Contribution Streak"
 />
@@ -441,7 +437,7 @@ Worked on applied AI/software engineering initiatives involving data, applicatio
 
 # `14 / CURRENT FOCUS`
 
-yaml
+```yaml
 current_focus:
 
   learning:
@@ -465,15 +461,16 @@ current_focus:
     - Software Engineering
     - Full Stack Development
     - Product Engineering
-    
- # `15 / CONNECT
+```
+
+# `15 / CONNECT`
 <div align="center"> <a href="mailto:akankshyapatra908@gmail.com"> <img src="https://img.shields.io/badge/GMAIL-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://linkedin.com/in/akankshya-patra-2193b4288"> <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://github.com/Akankshya908"> <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> </a> <a href="https://github.com/Akankshya908/Portfolio"> <img src="https://img.shields.io/badge/PORTFOLIO-F59E0B?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /> </a> </div> 
 
-# `16 / FOOTER
+# `16 / FOOTER`
 <div align="center">
 Building intelligent systems at the intersection of AI and software engineering.
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:F59E0B,30:5A3510,70:172B2B,100:0B0F0F&animation=fadeIn" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:8B5CF6,30:5B21B6,70:312E81,100:0B1020&animation=fadeIn" width="100%" alt="Footer" />
 
 </div> 
